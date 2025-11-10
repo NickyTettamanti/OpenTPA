@@ -1,0 +1,6 @@
+﻿pandas
+numpy
+scikit-learn
+streamlit
+jinja2
+streamlit-aggrid>=1.2.0
